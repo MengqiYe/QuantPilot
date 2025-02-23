@@ -1,0 +1,11 @@
+[project]
+name = "QuantPilot"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.10"
+dependencies = [
+    "akshare>=1.16.9",
+    "duckdb>=1.2.0",
+    "numpy>=2.2.3",
+    "pandas>=2.2.3",
+]
